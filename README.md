@@ -4,4 +4,4 @@ This repo is my *first* experimentation with GIT
 
 ## Goals
 
-- Be a Git wizarg
+- Be a Git wizard
